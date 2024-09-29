@@ -49,7 +49,7 @@
         <dependency>
             <groupId>com.github.Geik-xyz</groupId>
             <artifactId>Farmer-v6</artifactId>
-            <version>v6-b108</version>
+            <version>v6-beta-108</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
